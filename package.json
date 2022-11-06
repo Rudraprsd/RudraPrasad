@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "homepage": "https://Rudraprsd.github.io/Rudra_Prasad_Sahu",
+  "homepage": "",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
