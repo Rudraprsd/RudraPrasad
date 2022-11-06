@@ -1,0 +1,8 @@
+1. give a two graded color image for first image. ( transparent background )
+2. give a double exposure image for about image with transparent backgorund.
+3. at footer give a image like the ss taken. like mountain, parachute etc. Above of the img should contain the beautiful outer space, then sky, then in footer all designs.
+4. dont forget to colour grade everything with a proper manner.
+5. Blog website will be different and link should be given at both navbar and footer.
+6. Logo should more round. the radius of circle is uneven.
+7. have to remove blue highlight, in mobile, when clicking a button. 
+8. Contain a periodic table, design copied from lively wallpaper file.
