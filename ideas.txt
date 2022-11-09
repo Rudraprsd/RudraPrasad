@@ -6,3 +6,8 @@
 6. Logo should more round. the radius of circle is uneven.
 7. have to remove blue highlight, in mobile, when clicking a button. 
 8. Contain a periodic table, design copied from lively wallpaper file.
+9. Change description of website.
+10. Add a icon for social media share.
+11. seo management.
+12. add goggle tag.
+13. add google search console, google analytics

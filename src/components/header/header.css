@@ -20,7 +20,7 @@
 .nav__logo{
     width: 50px;
     padding-top: 3px;
-    transition: transform .7s ease-in-out;
+    transition: transform .5s linear;
 }
 
 .nav__logo:hover {
