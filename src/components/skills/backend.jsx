@@ -12,7 +12,7 @@ const Backend = () => {
 
                     <div>
                         <h3 className="skills__name">HTML</h3>
-                        <span className="skills__level">Basic</span>
+                        <span className="skills__level">Advanced</span>
                     </div>
                 </div>
                 <div className="skills__data">
@@ -28,25 +28,25 @@ const Backend = () => {
 
                     <div>
                         <h3 className="skills__name">JavaScript</h3>
-                        <span className="skills__level">Advanced</span>
+                        <span className="skills__level">Intermediate</span>
                     </div>
                 </div>
                 <div className="skills__data">
                     <i class="bx bx-badge-check"></i>
 
                     <div>
-                        <h3 className="skills__name">JavaScript</h3>
-                        <span className="skills__level">Advanced</span>
+                        <h3 className="skills__name">React</h3>
+                        <span className="skills__level">Intermediate</span>
                     </div>
                 </div>
-                <div className="skills__data">
+                {/* <div className="skills__data">
                     <i class="bx bx-badge-check"></i>
 
                     <div>
                         <h3 className="skills__name">JavaScript</h3>
                         <span className="skills__level">Advanced</span>
                     </div>
-                </div>
+                </div> */}
             </div>
         </div>
     </div>
