@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/RudraPrasad/static/css/main.a08088c7.css",
-    "main.js": "/RudraPrasad/static/js/main.645ec26d.js",
+    "main.css": "/RudraPrasad/static/css/main.1bda082f.css",
+    "main.js": "/RudraPrasad/static/js/main.1ca80409.js",
     "static/media/profile.JPG": "/RudraPrasad/static/media/profile.4eabaa1abc6d715500c5.JPG",
-    "static/media/cv.pdf": "/RudraPrasad/static/media/cv.75c64d578c68a8c82e03.pdf",
     "static/media/roundlogo.png": "/RudraPrasad/static/media/roundlogo.89e2953ad5d4c8f9f547.png",
     "static/media/AboutImg.jpg": "/RudraPrasad/static/media/AboutImg.af71f7e893c86697cf25.jpg",
+    "static/media/cv.pdf": "/RudraPrasad/static/media/cv.794deb25ee1e992d0b51.pdf",
     "index.html": "/RudraPrasad/index.html",
-    "main.a08088c7.css.map": "/RudraPrasad/static/css/main.a08088c7.css.map",
-    "main.645ec26d.js.map": "/RudraPrasad/static/js/main.645ec26d.js.map"
+    "main.1bda082f.css.map": "/RudraPrasad/static/css/main.1bda082f.css.map",
+    "main.1ca80409.js.map": "/RudraPrasad/static/js/main.1ca80409.js.map"
   },
   "entrypoints": [
-    "static/css/main.a08088c7.css",
-    "static/js/main.645ec26d.js"
+    "static/css/main.1bda082f.css",
+    "static/js/main.1ca80409.js"
   ]
 }
