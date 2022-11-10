@@ -8,6 +8,7 @@ import Services from './components/services/services';
 import Qualification from './components/qualification/qualification';
 // import Contact from './components/contact/contact'; 
 import Footer from './components/footer/footer';
+import ReactGA from 'react-ga';
 
 
 const App = () => {
