@@ -9,6 +9,7 @@ import Qualification from './components/qualification/qualification';
 // import Contact from './components/contact/contact'; 
 import Footer from './components/footer/footer';
 import ReactGA from 'react-ga';
+import Projects from './components/projects/projects';
 
 
 const App = () => {
@@ -20,6 +21,9 @@ const App = () => {
             <Home />
             <About />
             <Skills />
+            <Projects />
+            {/* <Services />  */}
+
             <Qualification />
             {/* <Contact />  */}
             <Footer />
