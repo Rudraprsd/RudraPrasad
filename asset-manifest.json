@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/RudraPrasad/static/css/main.46ffcb02.css",
+    "main.css": "/RudraPrasad/static/css/main.c47a8603.css",
     "main.js": "/RudraPrasad/static/js/main.f981e5b6.js",
     "static/media/profile.JPG": "/RudraPrasad/static/media/profile.4eabaa1abc6d715500c5.JPG",
     "static/media/roundlogo.png": "/RudraPrasad/static/media/roundlogo.89e2953ad5d4c8f9f547.png",
     "static/media/AboutImg.jpg": "/RudraPrasad/static/media/AboutImg.af71f7e893c86697cf25.jpg",
     "static/media/cv.pdf": "/RudraPrasad/static/media/cv.794deb25ee1e992d0b51.pdf",
     "index.html": "/RudraPrasad/index.html",
-    "main.46ffcb02.css.map": "/RudraPrasad/static/css/main.46ffcb02.css.map",
+    "main.c47a8603.css.map": "/RudraPrasad/static/css/main.c47a8603.css.map",
     "main.f981e5b6.js.map": "/RudraPrasad/static/js/main.f981e5b6.js.map"
   },
   "entrypoints": [
-    "static/css/main.46ffcb02.css",
+    "static/css/main.c47a8603.css",
     "static/js/main.f981e5b6.js"
   ]
 }
